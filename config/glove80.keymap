@@ -19,7 +19,7 @@
 #define MAGIC 2
 #define FACTORY_TEST 3
 
-&sk { release-after-ms = <50>; };
+&sk { release-after-ms = <100>; };
 
 / {
     behaviors {
